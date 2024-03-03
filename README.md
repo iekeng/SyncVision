@@ -56,8 +56,5 @@ Flask and Socket.IO for simplifying server-side development.
 The ALX SE facilitators for providing the opportunity to develop the necessary skills.
 Developers and contributors who helped test this project.
 
-### Contact
-
-For issues, questions, or feedback, please contact <martinsndifon@gmail.com> or <ifeanyichukwuhillary2019@gmail.com>
 
 Thank you for using the WebRTC Video Conferencing App!
